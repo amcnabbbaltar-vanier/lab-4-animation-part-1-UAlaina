@@ -7,6 +7,7 @@ public class PlayerAnimatiorController : MonoBehaviour
     private Animator animator;
     private CharacterMovement movement;
     private Rigidbody rb;
+    
     // Start is called before the first frame update
     void Start()
     {
